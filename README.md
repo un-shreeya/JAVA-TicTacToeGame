@@ -32,6 +32,9 @@ Features in this code:
 
 6. Reset:  After a win or draw, the board resets to dark mode automatically.
 
+![Tic Tac Toe Main Screen](https://github.com/un-shreeya/JAVA-TicTacToeGame/blob/4a8e0e97c990f58a99a55814a29ca1c7cc685aa0/Screenshot%202025-12-04%20155641.png)
+
+![Tic Tac Toe Win Highlight](https://github.com/un-shreeya/JAVA-TicTacToeGame/blob/4a8e0e97c990f58a99a55814a29ca1c7cc685aa0/Screenshot%202025-12-04%20155947.png)
 
 ## How to Run
 --------------
